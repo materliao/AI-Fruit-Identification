@@ -3,7 +3,7 @@
 ### 下載安裝包：
 
 * 前往 [Python的官方網站](https://www.python.org/downloads/)。
-* 下載適用於Windows的最新版本的Python安裝程序（通常是一個`.exe`文件）。
+* 下載適用於Windows的3.11.X版本的Python安裝程序（通常是一個`.exe`文件）。
 <img src="https://github.com/CYH109002/google/assets/129057021/97879023-725b-4a31-b032-98bddf54614d" alt="" style="width:80%;">
 
 ---
