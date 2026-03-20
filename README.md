@@ -1,6 +1,6 @@
 # ChatGPT fruit information identification
 ## 安裝Python(3.11.9)
-### 下載安裝包：
+### 下載python安裝包：
 
 * 前往 [Python的官方網站](https://www.python.org/downloads/)。
 * 下載適用於Windows的3.11.X版本的Python安裝程序（通常是一個`.exe`文件）。
