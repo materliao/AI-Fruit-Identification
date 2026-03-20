@@ -179,7 +179,7 @@ def Connet_ChatGPT(fruit_name):
 * 修改 `main.py` 程式碼為
 
 ```python
-# 
+# main.py
 import time,keyboard
 
 #使用tensorflow
