@@ -77,7 +77,7 @@
 ---
 
 ```python
-# main.py 程式碼 
+# main.py
 from keras.models import load_model  # TensorFlow is required for Keras to work
 import cv2  # Install opencv-python
 import numpy as np
@@ -152,12 +152,12 @@ cv2.destroyAllWindows()
 * 建立一個名為 **ChatGPTAPI** 的python程式 
 
 ```python
-# 
+# ChatGPTAPI.py
 from openai import OpenAI
 client = OpenAI()
 
 def Connet_ChatGPT(fruit_name):
-    print("")
+    print("") 
     messages = []
     message = f"what is {fruit_name}"
     messages.append({"role": "user", "content": message})
